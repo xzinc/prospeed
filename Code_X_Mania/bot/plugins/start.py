@@ -43,7 +43,7 @@ async def start(b, m):
             except UserNotParticipant:
                 await b.send_message(
                     chat_id=m.chat.id,
-                    text="<i>\n⚡Forward Me Files And See magic!⚡\n\n⚽Also Join our channel To Get Free Access❤\n✅You can use this bot now!\n ButJOIN  CHANNEL TO USE ME 🔐</i>",
+                    text="<i>\n⚡Forward Me Files And See magic!⚡\n\n⚽Also Join our channel To Get Free Access❤\n✅You can use this bot now!\n But JOIN  CHANNEL TO USE ME Sir</i>",
                     reply_markup=InlineKeyboardMarkup(
                         [
                             [
