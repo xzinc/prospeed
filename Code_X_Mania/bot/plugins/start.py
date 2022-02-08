@@ -71,7 +71,7 @@ async def start(b, m):
 <b>Dont Misuse The B0t!.</b>""",
             parse_mode="HTML",
             disable_web_page_preview=True,
-            reply_markup=InlineKeyboardMarkup( [ [InlineKeyboardButton('Owner', url=f"https://t.me/filmyxbot"),
+            reply_markup=InlineKeyboardMarkup( [ [InlineKeyboardButton('Donate', url=f"https://t.me/PutsExtrovert/7"),
                                                                                        InlineKeyboardButton('Main Channel', url='https://t.me/+FcsqT7u8gt1mMTdh') ] ]  ) )
                                                                                        
                                                                                        
