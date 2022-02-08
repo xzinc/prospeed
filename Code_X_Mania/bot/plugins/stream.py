@@ -43,7 +43,10 @@ async def private_receive_handler(c: Client, m: Message):
         except UserNotParticipant:
             await c.send_message(
                 chat_id=m.chat.id,
-                text="""<i>Due To Heavy USage only CHannel members Will GEt Free Access\nJᴏɪɴ ᴍʏ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ ᴛᴏ ᴜꜱᴇ ᴍᴇ 🔐</i>""",
+                text="""<i>⚡️Forward Me Files And See magic!⚡️
+
+⚽️Also Join our channel To Get Access❤️
+✅You can use this bot now!\nJᴏɪɴ Our ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ ᴛᴏ ᴜꜱᴇ ᴍᴇ 🔐</i>""",
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
