@@ -35,7 +35,7 @@ async def start(b, m):
                 if user.status == "kicked":
                     await b.send_message(
                         chat_id=m.chat.id,
-                        text="__�Your Are banned! . 𝓒ᴏɴᴛᴀᴄᴛ Admin NOW __\n\n @Filmyxbot**𝙃𝙚 𝙬𝙞𝙡𝙡 𝙝𝙚𝙡𝙥 𝙮𝙤𝙪**",
+                        text="__�Your Are banned! . 𝓒ᴏɴᴛᴀᴄᴛ Admin NOW __\n\n @Filmyxbot** 𝙃𝙚 𝙬𝙞𝙡𝙡 𝙝𝙚𝙡𝙥 𝙮𝙤𝙪**",
                         parse_mode="markdown",
                         disable_web_page_preview=True
                     )
